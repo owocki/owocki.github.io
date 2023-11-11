@@ -1,1 +1,1 @@
-MOVED TO https://practicalpluralism.github.io/
+MOVED TO https://github.com/practicalpluralism/practicalpluralism.github.io
